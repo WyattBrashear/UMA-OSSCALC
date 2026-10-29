@@ -1,4 +1,4 @@
-OSSCALC
+# OSSCALC
 Open Source Scientific Calculator
 ## Intro
 
