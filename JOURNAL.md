@@ -10,7 +10,7 @@ I've began the UMAScript specification. I outlined the basic types (Number, Char
 
 **Total time: ~50 Minutes**
 
-# October 29th - Llewi Cryer - 3:15
+# October 29th - Llewi Cryer - 3:15 pm
 I scaffolded our README to give the project a starting point for anyone interested, specifically fellow hackers looking to follow along with our project.
 
 **Total time: ~10 Minutes**
